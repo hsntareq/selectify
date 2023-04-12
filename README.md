@@ -3,10 +3,10 @@ This `Selectify` has been developed utilizing the capabilities of ES6 and Tailwi
 
 ## How to use?
 
-`
+```
 selectify('select.select-search', {
 	searchPlaceholder: 'Search Here...',
 	dropdownHeight: '220px',
 	noItemText: 'not found'
 });
-`
+```
